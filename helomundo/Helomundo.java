@@ -16,8 +16,8 @@ public class Helomundo {
      */
     public static void main(String[] args) {
         System.out.println("HOLLLLLA MUNDO con commits");
-        System.out.println("ajajja");
-        /* jajajajajajajajajajfdhjuish
+        System.out.println("aja");
+        /* jajajajajcomo holaaa jejej
         
         */
         
